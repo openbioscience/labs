@@ -1,3 +1,5 @@
 org: Dana-Farber Cancer Institute
 labs:
+  - name: Zhao Lab
+    about: Focused on understanding the diverse signaling pathways and networks that regulate essential cellular processes in normal and cancer cells.
   - name: Zhang Lab
